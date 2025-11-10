@@ -1,0 +1,19 @@
+body{
+    background-color:black;
+    color: green ; 
+    text-align: center;
+}
+h1{
+    font-weight: bolder;
+    font-size: 100px;
+    text-transform: capitalize;
+}
+#trust{
+    text-transform: capitalize;
+    font-size: 50px;
+}
+input{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
